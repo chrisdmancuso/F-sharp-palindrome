@@ -1,0 +1,8 @@
+c:\users\chris\source\repos\F_Sharp_Palindrome\F_Sharp_Palindrome\bin\Debug\netcoreapp2.0\F_Sharp_Palindrome.deps.json
+c:\users\chris\source\repos\F_Sharp_Palindrome\F_Sharp_Palindrome\bin\Debug\netcoreapp2.0\F_Sharp_Palindrome.runtimeconfig.json
+c:\users\chris\source\repos\F_Sharp_Palindrome\F_Sharp_Palindrome\bin\Debug\netcoreapp2.0\F_Sharp_Palindrome.runtimeconfig.dev.json
+c:\users\chris\source\repos\F_Sharp_Palindrome\F_Sharp_Palindrome\bin\Debug\netcoreapp2.0\F_Sharp_Palindrome.dll
+c:\users\chris\source\repos\F_Sharp_Palindrome\F_Sharp_Palindrome\bin\Debug\netcoreapp2.0\F_Sharp_Palindrome.pdb
+c:\users\chris\source\repos\F_Sharp_Palindrome\F_Sharp_Palindrome\obj\Debug\netcoreapp2.0\F_Sharp_Palindrome.fsprojAssemblyReference.cache
+c:\users\chris\source\repos\F_Sharp_Palindrome\F_Sharp_Palindrome\obj\Debug\netcoreapp2.0\F_Sharp_Palindrome.dll
+c:\users\chris\source\repos\F_Sharp_Palindrome\F_Sharp_Palindrome\obj\Debug\netcoreapp2.0\F_Sharp_Palindrome.pdb
